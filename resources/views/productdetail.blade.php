@@ -123,7 +123,7 @@ if(session()->get('customertype') == 2){
                         <div class="col-lg-5 col-md-6 col-sm-5 col-xs-7" id="load_color_images">
                             <div class="product-image">
                                 <div class="base-image">
-                                    <a class="base-image-inner" href="https://wirelesswavestx.com/pos/public/assets/images/{{$product->image}}"> <img id="base_image_path" src="https://wirelesswavestx.com/pos/public/assets/images/{{$product->image}}"> <span><i class="fa fa-search-plus" aria-hidden="true"></i></span> </a>
+                                    <a class="base-image-inner" href="https://wirelesswavestx.com/pos/public/assets/images/{{$product->image}}"> <img id="base_image_path" class="masterimage" src="https://wirelesswavestx.com/pos/public/assets/images/{{$product->image}}"> <span><i class="fa fa-search-plus" aria-hidden="true"></i></span> </a>
                                 </div>
                                 <div class="additional-image">
                                     <div class="thumb-image"> 
@@ -131,12 +131,18 @@ if(session()->get('customertype') == 2){
                                     </div>
                                     @foreach($productgallery as $productgallerys)
                                     <div class="thumb-image"> 
-                                    <img src="https://wirelesswavestx.com/pos/public/assets/images/{{$productgallerys->image}}">
+                                    <img onclick="changeimage({{'"'.$productgallerys->image.'"'}})" src="https://wirelesswavestx.com/pos/public/assets/images/{{$productgallerys->image}}">
                                     </div>
                                     @endforeach
                                 </div>
                             </div>
                         </div>
+                        <script>
+                           function changeimage($src){
+                             $('.masterimage').attr("src", "https://wirelesswavestx.com/pos/public/assets/images/"+$src);
+                            console.log($src);
+                           }
+                        </script>
                         <div class="col-lg-7 col-md-6 col-sm-7 col-xs-12">
                             <div class="product-details">
                                 <h1 class="product-name">{{$product->name}}</h1>
