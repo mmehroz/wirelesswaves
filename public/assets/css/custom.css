@@ -1,0 +1,143 @@
+/* --aurangzeb changes-- */
+.theme-blue .top-nav{background:#e9420b}
+.theme-blue .header-wrapper{background:#e9420b}
+.theme-blue .header-inner{background:#f5f5f5}
+.theme-black .user-cart .user-cart-inner>i,.theme-blue .user-cart .user-cart-inner>i,.theme-marrs-green .user-cart .user-cart-inner>i,.theme-navy-blue .user-cart .user-cart-inner>i,.theme-pink .user-cart .user-cart-inner>i,.theme-red .user-cart .user-cart-inner>i,.theme-sky-blue .user-cart .user-cart-inner>i,.theme-violet .user-cart .user-cart-inner>i{color:#131a44}
+.theme-black .user-cart .cart-amount .cart-label,
+.theme-blue .user-cart .cart-amount .cart-label,
+.theme-marrs-green .user-cart .cart-amount .cart-label,
+.theme-navy-blue .user-cart .cart-amount .cart-label,
+.theme-pink .user-cart .cart-amount .cart-label,
+.theme-red .user-cart .cart-amount .cart-label,
+.theme-sky-blue .user-cart .cart-amount .cart-label,
+.theme-violet .user-cart .cart-amount .cart-label{color:#e9420b}
+.theme-blue .section-header h3{border-bottom:2px solid #e9420b}
+.theme-blue .product-card .product-content .product-price{color:#e9420b}
+.theme-black .btn-default,.theme-blue .btn-default,.theme-marrs-green .btn-default,.theme-navy-blue .btn-default,.theme-pink .btn-default,.theme-red .btn-default,.theme-sky-blue .btn-default,.theme-violet .btn-default
+{
+	border-color:#e9420b;
+}
+
+.theme-blue .product-card .btn-add-to-cart:active:not([disabled]),.theme-blue .product-card .btn-add-to-cart:focus:not([disabled]),.theme-blue .product-card .btn-add-to-cart:hover:not([disabled])
+{
+	border-color:#e9420b;
+	color:#fafafa;
+	background:#e9420b;
+}
+.theme-blue .scroll-top i{
+	color:#e9420b;
+}
+
+.theme-blue .scroll-top i:hover{
+	    font-size: 40px;
+    -webkit-transition: .2s ease-in-out;
+    transition: .4s ease-in-out;
+}
+
+.theme-blue .single-feature .feature-icon i
+{
+	color:#e9420b;
+}
+
+.theme-blue .single-feature .feature-icon{border-right:1px solid #e9420b}
+.theme-blue .banner .banner-content>span{color:#e9420b}
+
+.user-cart .cart-amount .cart-price{font-family:Open Sans,sans-serif;position:absolute;left:0;bottom:0;vertical-align:top;margin-top:-2px}
+.theme-black .user-cart .cart-amount .cart-price,
+.theme-blue .user-cart .cart-amount .cart-price,.theme-marrs-green .user-cart .cart-amount .cart-price,.theme-navy-blue .user-cart .cart-amount .cart-price,.theme-pink .user-cart .cart-amount .cart-price,.theme-red .user-cart .cart-amount .cart-price,.theme-sky-blue .user-cart .cart-amount .cart-price,.theme-violet .user-cart .cart-amount .cart-price
+{
+	color:#e9420b;
+}
+.theme-blue .search-box .search-box-button .search-box-btn
+{
+	color:#fafafa;
+	background:#e9420b;
+}
+.theme-blue .search-box .search-box-button .search-box-btn:hover{background:#e86236}
+.user-cart .mini-cart-title{margin:10px 10px 0;display:block;padding-bottom:5px}
+.theme-black .user-cart .mini-cart-title,.theme-blue .user-cart .mini-cart-title,.theme-marrs-green .user-cart .mini-cart-title,.theme-navy-blue .user-cart .mini-cart-title,.theme-pink .user-cart .mini-cart-title,.theme-red .user-cart .mini-cart-title,.theme-sky-blue .user-cart .mini-cart-title,.theme-violet .user-cart .mini-cart-title{
+	border-bottom:1px solid #e9e9e9
+}
+.user-cart .mini-cart{
+	position:relative
+	}	
+.user-cart .mini-cart>i{
+
+	font-size:120px;position:absolute;left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)
+}
+.theme-black .user-cart .mini-cart>i,.theme-blue .user-cart .mini-cart>i,.theme-marrs-green .user-cart .mini-cart>i,.theme-navy-blue .user-cart .mini-cart>i,.theme-pink .user-cart .mini-cart>i,.theme-red .user-cart .mini-cart>i,.theme-sky-blue .user-cart .mini-cart>i,.theme-violet .user-cart .mini-cart>i
+	{
+		color:#f1f1f1
+	}
+.user-cart .mini-cart h3
+	{
+		position:relative;
+		text-align:center;
+		top:50%;
+		-webkit-transform:translateY(-50%);
+		transform:translateY(-50%)
+	}
+.theme-black .user-cart .mini-cart h3,.theme-blue .user-cart .mini-cart h3,.theme-marrs-green .user-cart .mini-cart h3,.theme-navy-blue .user-cart .mini-cart h3,.theme-pink .user-cart .mini-cart h3,.theme-red .user-cart .mini-cart h3,.theme-sky-blue .user-cart .mini-cart h3,.theme-violet .user-cart .mini-cart h3
+{
+	color:#555
+}.user-cart .mini-cart-item
+{
+	position:relative;
+	margin:0 10px;
+	padding:15px 0;
+	display:block;
+	-webkit-transition:.2s ease-in-out;
+	transition:.2s ease-in-out
+	}
+.theme-black .user-cart .mini-cart-item,.theme-blue .user-cart .mini-cart-item,.theme-marrs-green .user-cart .mini-cart-item,.theme-navy-blue .user-cart .mini-cart-item,.theme-pink .user-cart .mini-cart-item,.theme-red .user-cart .mini-cart-item,.theme-sky-blue .user-cart .mini-cart-item,.theme-violet .user-cart .mini-cart-item
+
+{
+	border-bottom:1px solid #f1f1f1}.user-cart .mini-cart-item:last-child
+{
+	border-bottom:none}
+
+	.user-cart .mini-cart-image
+	{
+		position:relative;border-radius:3px;background:#fff;height:55px;width:60px;margin-top:4px;float:left}
+
+	.theme-black .user-cart .mini-cart-image,.theme-blue .user-cart .mini-cart-image,.theme-marrs-green .user-cart .mini-cart-image,.theme-navy-blue .user-cart .mini-cart-image,.theme-pink .user-cart .mini-cart-image,.theme-red .user-cart .mini-cart-image,.theme-sky-blue .user-cart .mini-cart-image,.theme-violet .user-cart .mini-cart-image
+	{
+		border:1px solid #e9e9e9
+		}
+	.user-cart .mini-cart-image .image-placeholder
+	{
+		min-height:55px
+		}
+.user-cart .mini-cart-image .image-placeholder>i
+{
+	font-size:24px;
+	}
+.user-cart .mini-cart-image img
+{
+	position:absolute;
+	top:50%;
+	left:50%;
+	width:auto;
+	max-width:100%;
+	max-height:50px;
+	outline:0;
+	margin:auto;
+	-webkit-transform:translate(-50%,-50%);
+	transform:translate(-50%,-50%)
+	}
+.user-cart .mini-cart-details>form>.btn-close
+	{
+		font-size:22px;
+		position:relative;
+		top:auto;
+		right:auto;
+		}
+.user-cart .mini-cart-variants
+	{
+		margin-top:5px;
+		cursor:default;
+		}
+.theme-black .user-cart .mini-cart-variants,.theme-blue .user-cart .mini-cart-variants,.theme-marrs-green .user-cart .mini-cart-variants,.theme-navy-blue .user-cart .mini-cart-variants,.theme-pink .user-cart .mini-cart-variants,.theme-red .user-cart .mini-cart-variants,.theme-sky-blue .user-cart .mini-cart-variants,.theme-violet .user-cart .mini-cart-variants
+{ 
+	color:#626060;
+}

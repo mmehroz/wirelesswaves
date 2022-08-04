@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="38" viewBox="0 0 26 38">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_153" data-name="Rectangle 153" width="13" height="29" transform="translate(-22.229 26.695)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="10" height="29" transform="translate(-22.229 26.695)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="ico-compare" transform="translate(35.229 -21.695)">
+    <g id="Mask_Group_7" data-name="Mask Group 7" clip-path="url(#clip-path)">
+      <g id="Group_573" data-name="Group 573" transform="translate(10)">
+        <g id="Rectangle_151" data-name="Rectangle 151" transform="translate(-36.229 26.695)" fill="none" stroke="#474747" stroke-width="1">
+          <rect width="17" height="29" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="16" height="28" rx="3.5" fill="none"/>
+        </g>
+        <line id="Line_20" data-name="Line 20" x2="4" transform="translate(-29.729 53.195)" fill="none" stroke="#474747" stroke-linecap="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(-13)" clip-path="url(#clip-path-2)">
+      <g id="Group_574" data-name="Group 574" transform="translate(14)">
+        <g id="Rectangle_154" data-name="Rectangle 154" transform="translate(-36.229 26.695)" fill="none" stroke="#474747" stroke-width="1">
+          <rect width="17" height="29" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="16" height="28" rx="3.5" fill="none"/>
+        </g>
+        <g id="Rectangle_155" data-name="Rectangle 155" transform="translate(-32.229 26.695)" fill="none" stroke="#474747" stroke-width="1">
+          <path d="M0,0H9A0,0,0,0,1,9,0V2A2,2,0,0,1,7,4H2A2,2,0,0,1,0,2V0A0,0,0,0,1,0,0Z" stroke="none"/>
+          <path d="M1,.5H8a.5.5,0,0,1,.5.5V2A1.5,1.5,0,0,1,7,3.5H2A1.5,1.5,0,0,1,.5,2V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <path id="Union_2" data-name="Union 2" d="M18554.771,17410.7l1,1Zm0,0,1-1-1,1h0Z" transform="translate(-18571.5 -17369.5)" fill="none" stroke="#474747" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Union_3" data-name="Union 3" d="M0,1,1,0ZM0,1,1,2,0,1H0Z" transform="translate(-27.732 42.197) rotate(180)" fill="none" stroke="#474747" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_19" data-name="Line 19" y2="37" transform="translate(-22.729 22.195)" fill="none" stroke="#474747" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
